@@ -3,6 +3,9 @@
 ¡Bienvenido/a a mi portafolio personal!  
 Aquí encontrarás una recopilación de mis proyectos, experiencia y habilidades en Desarrollo de Software y Analista Funcional.
 
+> ⚠️ **Este portafolio está en proceso de construcción.**  
+> Estoy trabajando activamente para completarlo y mejorar su contenido. ¡Gracias por tu visita!
+
 ---
 
 ## 📄 Currículums
